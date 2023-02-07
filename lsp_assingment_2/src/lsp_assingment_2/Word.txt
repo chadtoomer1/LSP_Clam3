@@ -1,0 +1,3 @@
+test test 
+word 321 
+if word is right then word is rght
